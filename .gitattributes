@@ -1,0 +1,11 @@
+COPYING text eol=lf
+Makefile text eol=crlf
+README.md text eol=lf
+*.c text eol=crlf
+*.h text eol=crlf
+*.rc text eol=crlf
+*.vcxproj text eol=crlf
+*.xml text eol=crlf
+
+*.bmp binary
+*.ico binary
